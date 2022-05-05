@@ -13,3 +13,23 @@ Image:
 > A human face
 
 ![](https://github.com/mohamedsobhi777/COMP4971C---Independent-Study-Project/blob/main/output/face/14.png?raw=true)
+
+
+> A non-human
+
+![](https://github.com/mohamedsobhi777/COMP4971C---Independent-Study-Project/blob/main/output/human/382.png?raw=true)
+
+
+> A natural scenery
+
+![](https://github.com/mohamedsobhi777/COMP4971C---Independent-Study-Project/blob/main/output/scenery/138.png?raw=true)
+
+
+> A skull
+
+![](https://github.com/mohamedsobhi777/COMP4971C---Independent-Study-Project/blob/main/output/object/73.png?raw=true)
+
+
+> A horse
+
+![](https://github.com/mohamedsobhi777/COMP4971C---Independent-Study-Project/blob/main/output/animal/30.png?raw=true)
