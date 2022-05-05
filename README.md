@@ -8,8 +8,6 @@ The best 100 artworks judging by some [objective characteristics of good art](ht
 
 ### Example Output
 
-Image:
-
 > A human face
 
 ![](https://github.com/mohamedsobhi777/COMP4971C---Independent-Study-Project/blob/main/output/face/14.png?raw=true)
