@@ -4,7 +4,7 @@ This is an Independent study project during Spring 2021/2022 semester, conducted
 
 The project focuses on synthizing digital artwork using machine learning generative models. A collection of 1000 are created based on a dataset of popular NFTs using the VQGAN+CLIP model pre-trained on the wikiart16384 dataset.
 
-The best 100 artworks judging by some [objective characteristics of good art](https://bueskenart.com/characteristics-of-good-art/) will be soon listed for as NFTs on [my rarible profile](https://rarible.com/mohamed-sobhy)
+The best 100 artworks judging by some [objective characteristics of good art](https://bueskenart.com/characteristics-of-good-art/) will be soon listed for sale as NFTs on [my rarible profile](https://rarible.com/mohamed-sobhy)
 
 ### Example Images
 
