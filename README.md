@@ -6,6 +6,8 @@ The project focuses on synthizing digital artwork using machine learning generat
 
 The best 100 artworks judging by some [objective characteristics of good art](https://bueskenart.com/characteristics-of-good-art/) will be soon listed for sale as NFTs on [my rarible profile](https://rarible.com/mohamed-sobhy)
 
+For more information about this project, you can read the [project report](https://cse.hkust.edu.hk/~rossiter/independent_studies_projects/nft_generation/nft_generation.pdf). 
+
 ### Example Images
 
 > A human face
